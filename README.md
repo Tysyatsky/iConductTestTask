@@ -1,1 +1,1 @@
-A test task from iConduct.
+A test task.
